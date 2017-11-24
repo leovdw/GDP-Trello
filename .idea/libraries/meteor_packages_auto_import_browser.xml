@@ -4,8 +4,12 @@
       <sourceFilesUrls>
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/promise/0.10.0/web.browser/promise-tests.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/babel-runtime/1.1.1/web.browser/babel-runtime.js" />
+        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-meteor-data/0.2.15/web.browser/ReactMeteorData.jsx" />
+        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-meteor-data/0.2.15/web.browser/react-meteor-data.jsx" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/base64/1.0.10/web.browser/base64.js" />
+        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-meteor-data/0.2.15/web.browser/createContainer.jsx" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/binary-heap/1.0.10/web.browser/min-max-heap.js" />
+        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/tmeasday_check-npm-versions/0.2.0/web.browser/check-npm-versions.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/binary-heap/1.0.10/web.browser/min-heap.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/binary-heap/1.0.10/web.browser/max-heap.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.3.2/web.browser/dombackend.js" />
@@ -158,8 +162,12 @@
     <CLASSES>
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/promise/0.10.0/web.browser/promise-tests.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/babel-runtime/1.1.1/web.browser/babel-runtime.js" />
+      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-meteor-data/0.2.15/web.browser/ReactMeteorData.jsx" />
+      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-meteor-data/0.2.15/web.browser/react-meteor-data.jsx" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/base64/1.0.10/web.browser/base64.js" />
+      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-meteor-data/0.2.15/web.browser/createContainer.jsx" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/binary-heap/1.0.10/web.browser/min-max-heap.js" />
+      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/tmeasday_check-npm-versions/0.2.0/web.browser/check-npm-versions.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/binary-heap/1.0.10/web.browser/min-heap.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/binary-heap/1.0.10/web.browser/max-heap.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.3.2/web.browser/dombackend.js" />
